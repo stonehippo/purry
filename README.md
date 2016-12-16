@@ -7,7 +7,7 @@ Built with [PlatformIO](https://platformio.org).
 ## BOM
 
 - [Arduino Pro Mini 5V](https://www.sparkfun.com/products/11113)
-- [Adafruit VCNL4010 proximity/light sensor](https://www.adafruit.com/products/466)
+- [Adafruit VCNL4010 proximity/light sensor](http://www.adafruit.com/products/466)
 - 8 ohm speaker
 
 ## License
