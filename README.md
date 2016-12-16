@@ -2,6 +2,8 @@
 
 A small, furry friend.
 
+Built with [PlatformIO](https://platformio.org).
+
 ## BOM
 
 - [Arduino Pro Mini 5V](https://www.sparkfun.com/products/11113)
