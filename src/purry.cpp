@@ -16,9 +16,9 @@ Adafruit_VCNL4010 proxSensor;
 const uint16_t minFrequency = 24;
 const uint16_t maxFrequency = 50;
 
-const float START_RADIAN = 4.712; // Start at the mid-point of the sin wave (all the way off)
+const float START_RADIAN = 4.712; // Start at the mid-point of the sine wave (all the way off)
 const float MAX_RADIAN = 10.995;
-const float RADIAN_STEP = 0.001; // how many radians do we step the sign wave per loop? optimized for 3.3v, 8mHz set to 0.000225 for a 16mHz Arduino
+const float RADIAN_STEP = 0.001; // how many radians do we step the sine wave per loop?
 const float SIN_OFFSET = 127.5; // the offset to map the sin values back to 0-255 for analogWrite
 
 float volume = START_RADIAN;
